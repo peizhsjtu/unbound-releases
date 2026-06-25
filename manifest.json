@@ -1,6 +1,6 @@
 {
   "latestVersion": "0.6.0",
   "latestVersionCode": 6,
-  "url": "https://github.com/peizhsjtu/unbound-releases/releases/download/v0.6.0/app-release.apk",
+  "url": "https://github.com/peizhsjtu/unbound-releases/releases/download/v0.6.0/app-release-v0.6.0.apk",
   "changelog": "箭头动态缩放 + 起终点标注 + OTA 自更新 + 步频 10s 滑动窗口 + 导入修复"
 }
